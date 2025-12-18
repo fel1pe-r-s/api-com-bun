@@ -1,4 +1,6 @@
-# pizza-shop-api
+**Tags**: #Bun #Docker #Markdown #Node #Postgresql #TypeScript #Zod #dayjs
+
+#ApiWithBun # pizza-shop-api
 
 To install dependencies:
 
